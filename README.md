@@ -1,4 +1,4 @@
-SuccessSpark, AI-Career Coach helps you in creating Resume based on your information, Cover letter based on your Job description and helps yo 
+SuccessSpark, AI-Career Coach helps you in creating Resume based on your information, Cover letter based on your Job description and helps you in preparing for interviews by conducting Mock interviews, giving explanations for the solutions.You will get to know Industry Insights, which gets updated every week :)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
