@@ -13,8 +13,8 @@ To set up the project locally, follow these steps:
 
 2. **Clone the Repository**
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone [<repository-url>](https://github.com/TanyaCoder-27/AI-Career-Coach-SuccessSpark.git)
+   cd [<repository-directory>](https://github.com/TanyaCoder-27/AI-Career-Coach-SuccessSpark.git)
    ```
 
 3. **Install Dependencies**
